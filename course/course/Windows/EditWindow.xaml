@@ -1,0 +1,53 @@
+﻿<Window x:Class="course.EditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:course"
+        mc:Ignorable="d"
+        Title="Редактирование задачи" Height="313.636" Width="550" FontFamily="Arial" FontSize="14" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+            <GradientStop Color="#FF897BE0" Offset="1"/>
+            <GradientStop Color="#FF0A0A0A"/>
+            <GradientStop Color="#FFE3E1EA"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="0,0,2,2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+
+        <Label Content="Дата(до)" Grid.Column="1" Margin="0,10,145,0" RenderTransformOrigin="0.489,0.575" Height="25" VerticalAlignment="Top" Grid.Row="1" />
+        <DatePicker x:Name="dpChooseDate"  IsTodayHighlighted="True" Margin="80,10,5,0" Grid.Column="1" FirstDayOfWeek="Monday" SelectedDateFormat="Long"  Height="25" VerticalAlignment="Top" Grid.Row="1" HorizontalContentAlignment="Center"/>
+
+        <Label Content="Тег" Margin="6,10,139,0"  Height="25" VerticalAlignment="Top" />
+        <ComboBox x:Name="cbTags" Margin="51,10,14,0" IsEditable="True" Height="26" VerticalAlignment="Top"/>
+
+        <Label Content="Тип" Margin="6,10,139,0"  Height="25" Grid.Row="1"  VerticalAlignment="Top" />
+        <ComboBox x:Name="cbType" Margin="51,10,14,0" Grid.Row="1" IsEditable="True" Height="25" VerticalAlignment="Top"/>
+
+        <Label Content="Описание задачи" Margin="6,10,64,0"  Grid.Row="2" Height="30" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbDescription" Margin="10,33,10,43" TextWrapping="Wrap" Grid.Row="2"  SpellCheck.IsEnabled="True" Grid.ColumnSpan="2"  />
+
+        <Label Content="Приоритет" Margin="0,10,145,0" VerticalAlignment="Top" Grid.Column="1"/>
+
+        <ComboBox x:Name="cbPriority" Margin="80,10,5,20" Grid.Column="1" Background="White" BorderBrush="#FFACACAC" Foreground="Black" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+            <ComboBoxItem Content="Низкий"          HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <ComboBoxItem Content="Ниже среднего"   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <ComboBoxItem Content="Средний"         HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <ComboBoxItem Content="Выше среднего"   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <ComboBoxItem Content="Высокий"         HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </ComboBox>
+
+        <Button x:Name="btnEdit" Content="Закончить редактирование" Margin="10,131,0,7" Click="BtnEdit_Click"  Grid.Row="2" Background="{x:Null}" HorizontalAlignment="Left" Width="194"/>
+
+    </Grid>
+</Window>

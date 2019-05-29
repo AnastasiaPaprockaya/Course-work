@@ -1,0 +1,85 @@
+E:\Study\C#\course\course\bin\Release\course.exe.config
+E:\Study\C#\course\course\bin\Release\course.exe
+E:\Study\C#\course\course\bin\Release\course.pdb
+E:\Study\C#\course\course\bin\Release\MaterialDesignColors.dll
+E:\Study\C#\course\course\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\Study\C#\course\course\bin\Release\Xceed.Wpf.AvalonDock.dll
+E:\Study\C#\course\course\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Study\C#\course\course\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Study\C#\course\course\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Study\C#\course\course\bin\Release\Xceed.Wpf.DataGrid.dll
+E:\Study\C#\course\course\bin\Release\Xceed.Wpf.Toolkit.dll
+E:\Study\C#\course\course\bin\Release\MaterialDesignColors.pdb
+E:\Study\C#\course\course\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\Study\C#\course\course\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\Study\C#\course\course\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Study\C#\course\course\obj\Release\course.csprojAssemblyReference.cache
+E:\Study\C#\course\course\obj\Release\Windows\AddTaskWindow.g.cs
+E:\Study\C#\course\course\obj\Release\Windows\EditWindow.g.cs
+E:\Study\C#\course\course\obj\Release\Windows\MainWindow.g.cs
+E:\Study\C#\course\course\obj\Release\Windows\StartWindow.g.cs
+E:\Study\C#\course\course\obj\Release\Windows\App.g.cs
+E:\Study\C#\course\course\obj\Release\course_MarkupCompile.cache
+E:\Study\C#\course\course\obj\Release\course_MarkupCompile.lref
+E:\Study\C#\course\course\obj\Release\Windows\AddTaskWindow.baml
+E:\Study\C#\course\course\obj\Release\Windows\EditWindow.baml
+E:\Study\C#\course\course\obj\Release\Windows\MainWindow.baml
+E:\Study\C#\course\course\obj\Release\Windows\StartWindow.baml
+E:\Study\C#\course\course\obj\Release\course.g.resources
+E:\Study\C#\course\course\obj\Release\course.Properties.Resources.resources
+E:\Study\C#\course\course\obj\Release\course.csproj.GenerateResource.cache
+E:\Study\C#\course\course\obj\Release\course.csproj.CoreCompileInputs.cache
+E:\Study\C#\course\course\obj\Release\course.csproj.CopyComplete
+E:\Study\C#\course\course\obj\Release\course.exe
+E:\Study\C#\course\course\obj\Release\course.pdb
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\course.exe.config
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\course.exe
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\course.pdb
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\MaterialDesignColors.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\MaterialDesignThemes.Wpf.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\Xceed.Wpf.AvalonDock.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\Xceed.Wpf.DataGrid.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\Xceed.Wpf.Toolkit.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\MaterialDesignColors.pdb
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\MaterialDesignThemes.Wpf.pdb
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\MaterialDesignThemes.Wpf.xml
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course.csprojResolveAssemblyReference.cache
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\AddTaskWindow.g.cs
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\EditWindow.g.cs
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\MainWindow.g.cs
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\StartWindow.g.cs
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\App.g.cs
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course_MarkupCompile.cache
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course_MarkupCompile.lref
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\AddTaskWindow.baml
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\EditWindow.baml
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\MainWindow.baml
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\Windows\StartWindow.baml
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course.g.resources
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course.Properties.Resources.resources
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course.csproj.GenerateResource.Cache
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course.csproj.CoreCompileInputs.cache
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course.exe
+F:\!!!Универ!!!\моё\2 курс\4 семестр\!!!АИП\курсач\course\course\course\obj\Release\course.pdb

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <ID>1</ID>
+    <Type />
+    <Tag />
+    <Priority />
+    <Description>vbnm,</Description>
+    <StringDate>28 декабря 2018 г.</StringDate>
+    <Status>true</Status>
+    <Date>2018-12-28T00:00:00</Date>
+    <FinishDate>28 декабря 2018 г.</FinishDate>
+  </Task>
+  <Task>
+    <ID>2</ID>
+    <Type>1</Type>
+    <Tag>2</Tag>
+    <Priority />
+    <Description>3</Description>
+    <StringDate>29 декабря 2018 г.</StringDate>
+    <Status>false</Status>
+    <Date>2018-12-29T00:00:00</Date>
+    <FinishDate>28 декабря 2018 г.</FinishDate>
+  </Task>
+  <Task>
+    <ID>2</ID>
+    <Type />
+    <Tag />
+    <Priority />
+    <Description>v</Description>
+    <StringDate>29 декабря 2018 г.</StringDate>
+    <Status>false</Status>
+    <Date>2018-12-29T00:00:00</Date>
+    <FinishDate>28 декабря 2018 г.</FinishDate>
+  </Task>
+  <Task>
+    <ID>3</ID>
+    <Type />
+    <Tag />
+    <Priority />
+    <Description>n</Description>
+    <StringDate>29 декабря 2018 г.</StringDate>
+    <Status>false</Status>
+    <Date>2018-12-29T00:00:00</Date>
+    <FinishDate>28 декабря 2018 г.</FinishDate>
+  </Task>
+  <Task>
+    <ID>1</ID>
+    <Type />
+    <Tag />
+    <Priority />
+    <Description>v</Description>
+    <StringDate>28 декабря 2018 г.</StringDate>
+    <Status>false</Status>
+    <Date>2018-12-28T00:00:00</Date>
+    <FinishDate>28 декабря 2018 г.</FinishDate>
+  </Task>
+</ArrayOfTask>

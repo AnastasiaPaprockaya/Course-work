@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <ID>1</ID>
+    <Type />
+    <Tag />
+    <Priority />
+    <Description>f</Description>
+    <StringDate>28 декабря 2018 г.</StringDate>
+    <Status>false</Status>
+    <Date>2018-12-28T00:00:00</Date>
+  </Task>
+  <Task>
+    <ID>2</ID>
+    <Type />
+    <Tag />
+    <Priority />
+    <Description>dvsvsd</Description>
+    <StringDate>28 декабря 2018 г.</StringDate>
+    <Status>false</Status>
+    <Date>2018-12-28T00:00:00</Date>
+  </Task>
+</ArrayOfTask>

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "задача-Models",
+      "appliesTo": "course/Models/",
+      "type": "launch"
+    }
+  ]
+}
