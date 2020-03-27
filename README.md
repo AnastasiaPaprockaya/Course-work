@@ -1,1 +1,1 @@
-Course-work
+Coursework Task app
